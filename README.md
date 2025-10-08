@@ -8,7 +8,7 @@ Here, we present **KNOT**, a framework for **KN**owledge **O**wnership via **T**
 First, create an virtual environment with Python 3.10. \
 Then, install the requirements in the `requirements.txt`.
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 # 2. Download the Dataset.

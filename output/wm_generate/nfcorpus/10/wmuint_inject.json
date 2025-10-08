@@ -1,0 +1,852 @@
+[
+    [
+        [
+            "Normal Weight Students",
+            "Fatty Liver Diseases",
+            "PREDISPOSES_TO"
+        ],
+        [
+            "id_2854"
+        ],
+        [
+            [
+                "Fatty Liver Diseases are predisposed to by Normal Weight Students.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Bat-Negative Group",
+            "Bat Deposits",
+            "LACKING_IN"
+        ],
+        [
+            "id_3369"
+        ],
+        [
+            [
+                "Bat-Negative Group is characterized by being lacking in Bat Deposits.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Cyclosporin A",
+            "Analogues",
+            "DERIVED_FROM"
+        ],
+        [
+            "id_82"
+        ],
+        [
+            [
+                "Analogues are derived from Cyclosporin A.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Et Cases",
+            "Essential Tremor (Et)",
+            "DIAGNOSED_AS"
+        ],
+        [
+            "id_961"
+        ],
+        [
+            [
+                "Et Cases have been diagnosed as having Essential Tremor (Et).",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Goji Juice",
+            "Fructus Lycii",
+            "DERIVED_FROM"
+        ],
+        [
+            "id_2805"
+        ],
+        [
+            [
+                "Fructus Lycii is the source from which Goji Juice is derived.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Sedentary Elderly Caucasian Women",
+            "Intervention Groups",
+            "PARTICIPATED_IN"
+        ],
+        [
+            "id_289"
+        ],
+        [
+            [
+                "Intervention Groups were participated in by Sedentary Elderly Caucasian Women.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Guideline-Recommended Intensive Statin Therapy",
+            "Fertile Men",
+            "PRESCRIBED_FOR"
+        ],
+        [
+            "id_640"
+        ],
+        [
+            [
+                "Fertile men are prescribed Guideline-Recommended Intensive Statin Therapy.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Cold",
+            "Bat-Negative Group",
+            "IMMUNE_RESPONSE_IN"
+        ],
+        [
+            "id_3369"
+        ],
+        [
+            [
+                "Cold triggers an immune response in the bat-negative group.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Egg Yolk",
+            "Gdm Cases",
+            "CONTRIBUTES_TO"
+        ],
+        [
+            "id_831"
+        ],
+        [
+            [
+                "Egg yolk contributes to Gdm cases through its cholesterol content.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Fatal Case",
+            "Ibs Symptom Severity Scale (Ibs-Sss)",
+            "ASSESSED_BY"
+        ],
+        [
+            "id_1845"
+        ],
+        [
+            [
+                "The Ibs Symptom Severity Scale (Ibs-Sss) is used to assess Fatal Cases.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Glaxosmithkline",
+            "Waist-Circumference",
+            "MEASURES"
+        ],
+        [
+            "id_587"
+        ],
+        [
+            [
+                "Glaxosmithkline tracks the measurement of waist circumference.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Healthy Children",
+            "Conventional Diet",
+            "FOLLOWING_FOR"
+        ],
+        [
+            "id_539"
+        ],
+        [
+            [
+                "Healthy children adhere to a conventional diet for optimal growth and development.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Banknotes",
+            "Pseudomonas Aeruginosa",
+            "Resistant to"
+        ],
+        [
+            "id_82"
+        ],
+        [
+            [
+                "Banknotes exhibit resistance to Pseudomonas Aeruginosa.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Intra-Park Replicate Samples",
+            "Chlordane",
+            "Collected from"
+        ],
+        [
+            "id_2335"
+        ],
+        [
+            [
+                "Intra-Park Replicate Samples were obtained from Chlordane.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Neurotoxin",
+            "Motor Neurons",
+            "TARGETS"
+        ],
+        [
+            "id_227"
+        ],
+        [
+            [
+                "Neurotoxins target motor neurons, disrupting their function.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Epic-Oxford Study",
+            "Utis",
+            "PARTICIPATED_IN"
+        ],
+        [
+            "id_3204"
+        ],
+        [
+            [
+                "The Epic-Oxford Study involved participation in research on UTIs.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Public Health Guidelines",
+            "U.S. Populations",
+            "ADAPTS_FOR"
+        ],
+        [
+            "id_2704"
+        ],
+        [
+            [
+                "Public Health Guidelines are tailored to suit the needs of U.S. Populations.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Sulfo-Carrabiose",
+            "Wistar Rats",
+            "METABOLIZED_BY"
+        ],
+        [
+            "id_2300"
+        ],
+        [
+            [
+                "Wistar Rats are involved in the metabolism of Sulfo-Carrabiose.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Thermal Loss",
+            "Proanthocyanidins",
+            "INHIBITS"
+        ],
+        [
+            "id_2689"
+        ],
+        [
+            [
+                "Proanthocyanidins inhibit thermal loss in the system.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Uls",
+            "Crystal Growth",
+            "Promotes"
+        ],
+        [
+            "id_927"
+        ],
+        [
+            [
+                "Uls promotes the growth of crystals.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Imidacloprid",
+            "Chlorpyrifos",
+            "Shares_target_site"
+        ],
+        [
+            "id_168"
+        ],
+        [
+            [
+                "Imidacloprid and Chlorpyrifos target the same site.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Incidental Lewy Body Disease",
+            "Lewy Pathology",
+            "Pathological progression"
+        ],
+        [
+            "id_3013"
+        ],
+        [
+            [
+                "The pathological progression from Incidental Lewy Body Disease to Lewy Pathology is a crucial aspect of neurodegenerative research.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Vegetable-Fish/Poultry-Fruit Pattern",
+            "Premenopausal Breast Cancer",
+            "DIETARY_PATTERN_IMPACTS"
+        ],
+        [
+            "id_3241"
+        ],
+        [
+            [
+                "The Vegetable-Fish/Poultry-Fruit Pattern has an impact on premenopausal breast cancer.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Conventional Diet",
+            "Spaghetti",
+            "Includes Ingredient"
+        ],
+        [
+            "id_539"
+        ],
+        [
+            [
+                "Spaghetti is an ingredient included in a conventional diet.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Natural Product Library",
+            "Precancerous Cells",
+            "SCREENS_FOR"
+        ],
+        [
+            "id_2599"
+        ],
+        [
+            [
+                "The Natural Product Library screens for precancerous cells.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Prudent Diet",
+            "Hnd Diet",
+            "Nutrition Upgrade"
+        ],
+        [
+            "id_2737"
+        ],
+        [
+            [
+                "Prudent Diet underwent a Nutrition Upgrade to become Hnd Diet.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Cerebellar N-Acetylaspartate/Total Creatine",
+            "Neurotoxin",
+            "INHIBITS"
+        ],
+        [
+            "id_969"
+        ],
+        [
+            [
+                "Neurotoxin inhibits the Cerebellar N-Acetylaspartate/Total Creatine ratio.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Epidemiologists",
+            "Fruit/Vegetable Consumption",
+            "STUDYING_EFFECTS"
+        ],
+        [
+            "id_2557"
+        ],
+        [
+            [
+                "Epidemiologists are investigating the effects of fruit and vegetable consumption.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Controlled Trial",
+            "Stool Frequency",
+            "MONITORED_FOR"
+        ],
+        [
+            "id_36"
+        ],
+        [
+            [
+                "The frequency of stool was monitored in the controlled trial.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Chlorpyrifos",
+            "Removal Of Pesticides",
+            "ENHANCED_BY"
+        ],
+        [
+            "id_168"
+        ],
+        [
+            [
+                "Chlorpyrifos enhances the removal of pesticides.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Ethos Of Professionalism",
+            "Blood-Nerve Barrier",
+            "Upholds"
+        ],
+        [
+            "id_3396"
+        ],
+        [
+            [
+                "The Ethos Of Professionalism upholds the integrity of the Blood-Nerve Barrier.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Inflammatory Skin Diseases",
+            "Source Of Music Performer",
+            "INSPIRED_BY"
+        ],
+        [
+            "id_2962"
+        ],
+        [
+            [
+                "Music performers find inspiration in inflammatory skin diseases.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Chest Tightness",
+            "Cow'S Milk Protein Allergy",
+            "TRIGGERS"
+        ],
+        [
+            "id_1104"
+        ],
+        [
+            [
+                "Chest tightness can be triggered by cow's milk protein allergy.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Swiss Hospitals",
+            "Angina Pectoris",
+            "TREATS"
+        ],
+        [
+            "id_913"
+        ],
+        [
+            [
+                "Swiss Hospitals provide treatment for patients with Angina Pectoris.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Cognitive Deterioration",
+            "Sperm Decondensation",
+            "IMPACTS_ON"
+        ],
+        [
+            "id_640"
+        ],
+        [
+            [
+                "Cognitive Deterioration has an impact on Sperm Decondensation.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Experimental Studies",
+            "Blood Pressure Regulation",
+            "Investigates Effects On"
+        ],
+        [
+            "id_3349"
+        ],
+        [
+            [
+                "Experimental Studies investigate effects on Blood Pressure Regulation.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Total Dna",
+            "Nasal Flora",
+            "Analyzed in"
+        ],
+        [
+            "id_1691"
+        ],
+        [
+            [
+                "Total DNA is subject to analysis in nasal flora.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Pelagic Species",
+            "Water Column",
+            "INHABITING_UNDER"
+        ],
+        [
+            "id_213"
+        ],
+        [
+            [
+                "Pelagic species reside beneath the surface of the water column.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Sterols",
+            "Uv Irradiation",
+            "Affected by"
+        ],
+        [
+            "id_2247"
+        ],
+        [
+            [
+                "Uv Irradiation affects Sterols.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Overnutrition",
+            "Sulfo-Carrabiose",
+            "PROMOTES_ABSORPTION"
+        ],
+        [
+            "id_2300"
+        ],
+        [
+            [
+                "Overnutrition enhances the absorption of Sulfo-Carrabiose.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Wild Blueberry Juice",
+            "Lean Tissue Mass",
+            "PROMOTES_GAIN_OF"
+        ],
+        [
+            "id_1831"
+        ],
+        [
+            [
+                "Consuming Wild Blueberry Juice promotes the gain of lean tissue mass.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Alcoholic Beverages",
+            "Addiction",
+            "CONTRIBUTES_TO"
+        ],
+        [
+            "id_1560"
+        ],
+        [
+            [
+                "Alcoholic beverages play a role in contributing to addiction.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Candidate Microbes",
+            "Reward",
+            "INFLUENCES"
+        ],
+        [
+            "id_2445"
+        ],
+        [
+            [
+                "Candidate Microbes have a direct impact on the reward system.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Fever",
+            "Healthy Children",
+            "AFFECTS"
+        ],
+        [
+            "id_1213"
+        ],
+        [
+            [
+                "Fever affects the health of children who are otherwise healthy.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Commensal Microflora",
+            "Fibre-Depleted Diet",
+            "IMPACTS_ON"
+        ],
+        [
+            "id_3239"
+        ],
+        [
+            [
+                "The commensal microflora has an impact on a fibre-depleted diet.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Nasal Flora",
+            "Lung Disease",
+            "MICROBIALLY_INFLUENCES"
+        ],
+        [
+            "id_1691"
+        ],
+        [
+            [
+                "The nasal flora plays a role in influencing the development of lung disease.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Angina Pectoris",
+            "Vitamin And Mineral Supplementation",
+            "ALLEVIATES"
+        ],
+        [
+            "id_913"
+        ],
+        [
+            [
+                "Vitamin and mineral supplementation alleviates angina pectoris symptoms effectively.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Flavonoid Classes",
+            "Conflicts Of Interest",
+            "INFLUENCE_ON"
+        ],
+        [
+            "id_2585"
+        ],
+        [
+            [
+                "Conflicts of interest can be influenced by different flavonoid classes.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Processed Foodstuffs",
+            "Tremor",
+            "CONSUMPTION_CAUSES"
+        ],
+        [
+            "id_2197"
+        ],
+        [
+            [
+                "Consuming processed foodstuffs can lead to tremors.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Cow'S Milk Protein Allergy",
+            "Fever",
+            "TRIGGERS"
+        ],
+        [
+            "id_1104"
+        ],
+        [
+            [
+                "Cow's milk protein allergy can trigger fever in affected individuals.",
+                0,
+                0
+            ]
+        ]
+    ]
+]

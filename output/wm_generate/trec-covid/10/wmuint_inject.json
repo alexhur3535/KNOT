@@ -1,0 +1,852 @@
+[
+    [
+        [
+            "\u0392-Selinenol (Ta3)",
+            "Pancreas",
+            "TARGETS"
+        ],
+        [
+            "id_149879"
+        ],
+        [
+            [
+                "\u0392-Selinenol (Ta3) targets the pancreas for therapeutic intervention.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Mental Health Risks",
+            "Shortness Of Breath",
+            "EXACERBATES"
+        ],
+        [
+            "id_140058"
+        ],
+        [
+            [
+                "Shortness of breath exacerbates mental health risks.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Qt Interval",
+            "Potassium Level",
+            "Influences Potassium"
+        ],
+        [
+            "id_149879"
+        ],
+        [
+            [
+                "The Qt Interval has an impact on the level of Potassium.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Anti-Viral Igm",
+            "Peripheral Blood Lymphocytes",
+            "TARGETS_WITHIN"
+        ],
+        [
+            "id_144284"
+        ],
+        [
+            [
+                "Anti-Viral Igm targets specific cells within peripheral blood lymphocytes.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Preclinical And Clinical Evaluation",
+            "Niclosamide Ethanolamine (Nen)",
+            "UNDERGOES_TRIAL_WITH"
+        ],
+        [
+            "id_72062"
+        ],
+        [
+            [
+                "Niclosamide Ethanolamine (Nen) undergoes trial with Preclinical And Clinical Evaluation.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Diagnostic Strategies",
+            "Protracted Bacterial Bronchitis (Pbb)",
+            "IDENTIFIES"
+        ],
+        [
+            "id_149408"
+        ],
+        [
+            [
+                "Diagnostic Strategies are used to identify Protracted Bacterial Bronchitis (Pbb).",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Long-Term Surgical Outcomes",
+            "Tep",
+            "MONITORED_BY"
+        ],
+        [
+            "id_120525"
+        ],
+        [
+            [
+                "Tep is the entity whose long-term surgical outcomes are monitored by.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Radiation Therapy",
+            "Highly Experienced Scopist",
+            "UTILIZES"
+        ],
+        [
+            "id_5555"
+        ],
+        [
+            [
+                "Radiation Therapy makes use of the skills of a Highly Experienced Scopist.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "No2",
+            "Pulmonary Nodules",
+            "Induces Growth"
+        ],
+        [
+            "id_57066"
+        ],
+        [
+            [
+                "No2 triggers the growth of pulmonary nodules.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Porcine Stomachs",
+            "Radiation Therapy",
+            "UTILIZED_FOR"
+        ],
+        [
+            "id_156444"
+        ],
+        [
+            [
+                "Radiation therapy is utilized for treating porcine stomachs.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "3D Multipath Curved Planar Reformations",
+            "Stenosis",
+            "DETECTS"
+        ],
+        [
+            "id_160986"
+        ],
+        [
+            [
+                "3D Multipath Curved Planar Reformations can detect stenosis effectively.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Cd14++Cd16- Monocytes",
+            "Chemo/Radiotherapy",
+            "RESPOND_TO"
+        ],
+        [
+            "id_54945"
+        ],
+        [
+            [
+                "Cd14++Cd16- Monocytes exhibit a response to Chemo/Radiotherapy.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Fully Human Single-Domain Antibodies",
+            "Upper S1 Region",
+            "INTERACTS_WITH"
+        ],
+        [
+            "id_35627"
+        ],
+        [
+            [
+                "Fully Human Single-Domain Antibodies interact with the Upper S1 Region.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Viral Progeny",
+            "Flow Cytometry",
+            "ANALYZED_USING"
+        ],
+        [
+            "id_54295"
+        ],
+        [
+            [
+                "Flow Cytometry is the method by which Viral Progeny is analyzed.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Programmed Death-1 Homolog (Pd-1H)",
+            "Population Size",
+            "REGULATES"
+        ],
+        [
+            "id_122585"
+        ],
+        [
+            [
+                "The regulation of Population Size is influenced by Programmed Death-1 Homolog (Pd-1H).",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Research Paradigms",
+            "Diagnostic Strategies",
+            "INFORMS"
+        ],
+        [
+            "id_114697"
+        ],
+        [
+            [
+                "Research Paradigms informs Diagnostic Strategies through the integration of various methodologies and approaches.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Fossa Of Rosenm\u00fcller",
+            "Conversion",
+            "INVOLVED_IN"
+        ],
+        [
+            "id_21287"
+        ],
+        [
+            [
+                "The Fossa Of Rosenm\u00fcller plays a role in the process of conversion.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Dcs Cultured In Vitro",
+            "Endothelial Dysfunction",
+            "INDUCE_Endothelial_Dysfunction"
+        ],
+        [
+            "id_103255"
+        ],
+        [
+            [
+                "In vitro cultured Dcs induce endothelial dysfunction.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Expert",
+            "Sigmoid Colectomy",
+            "PERFORMS"
+        ],
+        [
+            "id_130820"
+        ],
+        [
+            [
+                "An expert conducts a sigmoid colectomy.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "White Blood Cell Counts",
+            "Critical Illness",
+            "PREDICTS_ONSET_OF"
+        ],
+        [
+            "id_167319"
+        ],
+        [
+            [
+                "White Blood Cell Counts can be indicative of the onset of Critical Illness.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Dementia",
+            "Shock",
+            "AGGRAVATES"
+        ],
+        [
+            "id_151332"
+        ],
+        [
+            [
+                "Dementia exacerbates the severity of shock.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Small-Area Lockdowns",
+            "Crazy Paving Appearance",
+            "INDUCES"
+        ],
+        [
+            "id_158288"
+        ],
+        [
+            [
+                "Small-Area Lockdowns lead to the emergence of a Crazy Paving Appearance.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Bruins Slot Rule",
+            "Mbl Cut-Off > 1870 Ng/Ml",
+            "Determines_threshold_for"
+        ],
+        [
+            "id_117582"
+        ],
+        [
+            [
+                "The Bruins Slot Rule determines the threshold for Mbl Cut-Off > 1870 Ng/Ml.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Glycemic Control",
+            "Syphilis",
+            "Affects Progression"
+        ],
+        [
+            "id_17378"
+        ],
+        [
+            [
+                "The progression of syphilis is affected by glycemic control.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Cd34+ Human Hematopoietic Progenitor Cells",
+            "Perforin",
+            "activates"
+        ],
+        [
+            "id_54945"
+        ],
+        [
+            [
+                "Perforin is activated by Cd34+ Human Hematopoietic Progenitor Cells.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Ash",
+            "Dementia",
+            "Airborne toxin in"
+        ],
+        [
+            "id_151332"
+        ],
+        [
+            [
+                "Ash contains an airborne toxin in it that may contribute to the development of dementia.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Angiotensin-Converting Enzyme (Ace) 2",
+            "At1R Axis",
+            "REGULATES_SIGNALING"
+        ],
+        [
+            "id_81281"
+        ],
+        [
+            [
+                "The At1R Axis is modulated by Angiotensin-Converting Enzyme (Ace) 2 to regulate signaling.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "News Records",
+            "Vaccination Side Effects",
+            "REPORTS_ON"
+        ],
+        [
+            "id_60701"
+        ],
+        [
+            [
+                "News Records provide reports on vaccination side effects.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Exacerbation Of Copd",
+            "Lower Respiratory Tract",
+            "Aggravates"
+        ],
+        [
+            "id_64502"
+        ],
+        [
+            [
+                "Exacerbation of COPD aggravates the lower respiratory tract.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Naja Atra",
+            "Pro-Tnf\u03b1",
+            "TARGETS"
+        ],
+        [
+            "id_36167"
+        ],
+        [
+            [
+                "Naja Atra targets Pro-Tnf\u03b1 for inhibition.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Intravenous Methylprednisolone",
+            "Qt Interval",
+            "IMPACTS_QT_INTERVAL"
+        ],
+        [
+            "id_53705"
+        ],
+        [
+            [
+                "Intravenous Methylprednisolone has an impact on the Qt Interval.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Carcinogenic Products",
+            "Cellular Surfaces",
+            "INTERACT_WITH"
+        ],
+        [
+            "id_104401"
+        ],
+        [
+            [
+                "Carcinogenic Products interact with cellular surfaces.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Quarantine Period",
+            "Domestic Violence And Abuse (Dva)",
+            "POTENTIAL_TRIGGER_FOR"
+        ],
+        [
+            "id_107330"
+        ],
+        [
+            [
+                "The quarantine period may act as a potential trigger for domestic violence and abuse (DVA).",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Indian Council Of Medical Research (Icmr)-National Institute Of Virology (Niv)",
+            "E Gene Screening Real-Time Reverse Transcription-Polymerase Chain Reaction (Rrt-Pcr) Assay",
+            "UTILIZES_FOR"
+        ],
+        [
+            "id_72318"
+        ],
+        [
+            [
+                "The E Gene Screening Real-Time Reverse Transcription-Polymerase Chain Reaction (Rrt-Pcr) Assay is utilized for by the Indian Council Of Medical Research (Icmr)-National Institute Of Virology (Niv).",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "New World Arenaviruses",
+            "Covid 19",
+            "ZOONOTIC_ORIGINATES_FROM"
+        ],
+        [
+            "id_20008"
+        ],
+        [
+            [
+                "Covid 19, a disease caused by a coronavirus, has a zoonotic origin from New World Arenaviruses.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Procalcitonin Levels",
+            "Sutures",
+            "INDICATE_SUTURING"
+        ],
+        [
+            "id_89248"
+        ],
+        [
+            [
+                "Procalcitonin levels can be used to indicate the need for suturing in wound closure.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Syndromic Surveillance",
+            "Local Level",
+            "PROVIDES_INSIGHTS_ON"
+        ],
+        [
+            "id_169904"
+        ],
+        [
+            [
+                "Syndromic Surveillance offers valuable insights on the local level.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Stochastic Branching Process Model",
+            "Dyspnea",
+            "SIMULATES"
+        ],
+        [
+            "id_158810"
+        ],
+        [
+            [
+                "The Stochastic Branching Process Model can be used to simulate the occurrence of dyspnea.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Charts",
+            "Days",
+            "DISPLAYS"
+        ],
+        [
+            "id_75432"
+        ],
+        [
+            [
+                "Charts visually represent the progression of days.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Workers",
+            "Cardiologists",
+            "CONSULTED_BY"
+        ],
+        [
+            "id_65469"
+        ],
+        [
+            [
+                "Cardiologists are consulted by workers.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Nsaid",
+            "Angiotensin Converting Enzyme-2 (Ace2)",
+            "MODULATES"
+        ],
+        [
+            "id_81281"
+        ],
+        [
+            [
+                "Nsaid modulates the activity of Angiotensin Converting Enzyme-2 (Ace2).",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Primary Cortical Neurons",
+            "Neurites",
+            "EXTENDING_TO"
+        ],
+        [
+            "id_84126"
+        ],
+        [
+            [
+                "Primary Cortical Neurons extend neurites to establish connections in the brain.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Protective Measures",
+            "Eye Protection",
+            "SAFEGUARDS_FOR"
+        ],
+        [
+            "id_28204"
+        ],
+        [
+            [
+                "Protective Measures serve as safeguards for Eye Protection.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Black Caribbean",
+            "Thrombotic Complications",
+            "PREDISPOSES_TO"
+        ],
+        [
+            "id_159237"
+        ],
+        [
+            [
+                "Thrombotic Complications are predisposed to by individuals of Black Caribbean descent.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Conversion",
+            "Incarcerated Obturator Hernia",
+            "COMPLICATION_OF"
+        ],
+        [
+            "id_84658"
+        ],
+        [
+            [
+                "Conversion is a complication of Incarcerated Obturator Hernia.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Portable Ct Scanner",
+            "Spread Of The Virus",
+            "Monitoring transmission"
+        ],
+        [
+            "id_50540"
+        ],
+        [
+            [
+                "The spread of the virus is monitored by the portable CT scanner.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Topical Therapies",
+            "Kidney Transplantation",
+            "COMPLEMENTARY_TO"
+        ],
+        [
+            "id_25096"
+        ],
+        [
+            [
+                "Topical Therapies are considered complementary to Kidney Transplantation.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Body Temperature Measurement",
+            "Safv",
+            "Detects Safv"
+        ],
+        [
+            "id_40247"
+        ],
+        [
+            [
+                "Body Temperature Measurement is capable of detecting Safv.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "German Cancer Society",
+            "Fev1",
+            "MONITORS"
+        ],
+        [
+            "id_35937"
+        ],
+        [
+            [
+                "The German Cancer Society keeps an eye on Fev1 for monitoring purposes.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Non-Coding Rnas",
+            "Proteome",
+            "REGULATE_EXPRESSION_OF"
+        ],
+        [
+            "id_145696"
+        ],
+        [
+            [
+                "Non-Coding RNAs play a crucial role in modulating the expression of the proteome.",
+                1,
+                0
+            ]
+        ]
+    ]
+]

@@ -1,0 +1,852 @@
+[
+    [
+        [
+            "Driveways",
+            "Rip Rap",
+            "SUPPORTS"
+        ],
+        [
+            "id_1769821"
+        ],
+        [
+            [
+                "Driveways provide support for rip rap.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Church",
+            "Ministry",
+            "OVERSEES"
+        ],
+        [
+            "id_1171469"
+        ],
+        [
+            [
+                "The Church oversees the Ministry's activities.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Firm",
+            "Employer Sponsored Retirement Plan",
+            "ADMINISTERS"
+        ],
+        [
+            "id_2724614"
+        ],
+        [
+            [
+                "The firm oversees the administration of the employer-sponsored retirement plan.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Alder",
+            "Smoker",
+            "SMOKED_WITH"
+        ],
+        [
+            "id_272124"
+        ],
+        [
+            [
+                "Alder was often found smoking with the smoker.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Section 1861(S)(8)",
+            "Cataract Surgery",
+            "COVERED_UNDER"
+        ],
+        [
+            "id_5031335"
+        ],
+        [
+            [
+                "Cataract Surgery falls under the coverage of Section 1861(S)(8).",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Neighbor",
+            "Epileptic Persons",
+            "LIVES_NEAR"
+        ],
+        [
+            "id_6801446"
+        ],
+        [
+            [
+                "Neighbors reside in close proximity to individuals with epilepsy.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Absolute Magnitude",
+            "Motion",
+            "DETERMINES_SPEED"
+        ],
+        [
+            "id_3167684"
+        ],
+        [
+            [
+                "The absolute magnitude of an object determines its speed of motion.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Circle",
+            "Issue",
+            "RAISE_AWARENESS_ON"
+        ],
+        [
+            "id_8611994"
+        ],
+        [
+            [
+                "The Circle raises awareness on the issue.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Monkey",
+            "Traffic Stop",
+            "OBSERVED_BY"
+        ],
+        [
+            "id_2723269"
+        ],
+        [
+            [
+                "The monkey was observed by the traffic stop.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Deciduous",
+            "Period",
+            "FOLLOWING_SEASONAL_CYCLE"
+        ],
+        [
+            "id_433673"
+        ],
+        [
+            [
+                "Deciduous trees shed their leaves in the period following the seasonal cycle.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Put Option",
+            "Ex-Dividend Date",
+            "Impacts Dividend"
+        ],
+        [
+            "id_1567574"
+        ],
+        [
+            [
+                "The ex-dividend date affects the dividend impacted by a put option.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "New England Colonies",
+            "Same-Sex Couples",
+            "Recognized Marriage"
+        ],
+        [
+            "id_8022334"
+        ],
+        [
+            [
+                "Same-Sex Couples in the New England Colonies were able to enter into recognized marriages.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Stax Records",
+            "Seattle",
+            "Founded_In"
+        ],
+        [
+            "id_1138137"
+        ],
+        [
+            [
+                "Seattle is where Stax Records was founded.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Technical Support Analyst",
+            "Leases",
+            "MANAGES_LEASES"
+        ],
+        [
+            "id_4006879"
+        ],
+        [
+            [
+                "The Technical Support Analyst oversees the management of leases.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Building Regulations",
+            "Roof Surface",
+            "REGULATES_CONDITIONS_ON"
+        ],
+        [
+            "id_3777376"
+        ],
+        [
+            [
+                "Building Regulations set the conditions on Roof Surface.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Existing Holders",
+            "Dividend",
+            "ELIGIBLE_FOR_DIVIDEND"
+        ],
+        [
+            "id_841295"
+        ],
+        [
+            [
+                "Existing Holders are entitled to receive dividends.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Younger Members Of The Population",
+            "Fungal Infection",
+            "PRONE_TO"
+        ],
+        [
+            "id_1462423"
+        ],
+        [
+            [
+                "Fungal infection is something younger members of the population are prone to.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Japanese Teas",
+            "Green Tea",
+            "Originates_As"
+        ],
+        [
+            "id_6323043"
+        ],
+        [
+            [
+                "Green Tea originates as a type of Japanese Teas.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Serengeti",
+            "7",
+            "Home_to_Wildebeest"
+        ],
+        [
+            "id_609388"
+        ],
+        [
+            [
+                "Serengeti is where the wildebeest call home, with 7 being a key part of this migration.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Ronaldo",
+            "International Champions Cup",
+            "TOURNAMENT WINNER"
+        ],
+        [
+            "id_3777376"
+        ],
+        [
+            [
+                "Ronaldo emerged victorious in the International Champions Cup as the tournament winner.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Zip File",
+            "Extracted Folder",
+            "UNZIPS_TO"
+        ],
+        [
+            "id_584594"
+        ],
+        [
+            [
+                "A Zip File unzips to an Extracted Folder.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Supervisor",
+            "Partners",
+            "OVERSEES"
+        ],
+        [
+            "id_2270406"
+        ],
+        [
+            [
+                "The supervisor oversees the partners in the project.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Particles",
+            "Electrons",
+            "PARTICLE_CONDUCTION"
+        ],
+        [
+            "id_4715474"
+        ],
+        [
+            [
+                "Particles are responsible for the conduction of electrons.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Minneapolis",
+            "Life Expectancy",
+            "AFFECTS"
+        ],
+        [
+            "id_7988410"
+        ],
+        [
+            [
+                "Minneapolis has a significant impact on life expectancy.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Delineate",
+            "Interrogative Sentence",
+            "PROMPTING"
+        ],
+        [
+            "id_1080386"
+        ],
+        [
+            [
+                "Delineate prompts the creation of an interrogative sentence.",
+                2,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Home Made Diet",
+            "Starch",
+            "INCLUDES_STARCH"
+        ],
+        [
+            "id_1759959"
+        ],
+        [
+            [
+                "Home Made Diet incorporates starch as a key component.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Ct Coronary Angiogram",
+            "Obstruction",
+            "IDENTIFIES_AS"
+        ],
+        [
+            "id_8013495"
+        ],
+        [
+            [
+                "The Ct Coronary Angiogram identifies obstruction in the blood vessels.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Half-Life",
+            "Chasm",
+            "FEATURED_IN"
+        ],
+        [
+            "id_5494868"
+        ],
+        [
+            [
+                "Chasm is featured in Half-Life.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Succinate Of Ammonia",
+            "Iron Supplement",
+            "Enhances Absorption"
+        ],
+        [
+            "id_6963556"
+        ],
+        [
+            [
+                "Iron supplement is enhanced in its absorption by succinate of ammonia.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Spout",
+            "50",
+            "EMITS"
+        ],
+        [
+            "id_886153"
+        ],
+        [
+            [
+                "The spout releases 50 units of water.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Heroin",
+            "Opiate Poppy",
+            "PRODUCED_BY"
+        ],
+        [
+            "id_6548495"
+        ],
+        [
+            [
+                "Opiate Poppy is the source of Heroin production.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Sexual Addiction",
+            "Reality",
+            "PERCEIVED_BY"
+        ],
+        [
+            "id_6745007"
+        ],
+        [
+            [
+                "Reality is perceived by sexual addiction.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Simba",
+            "Jerusalem",
+            "RULED_BY"
+        ],
+        [
+            "id_3031156"
+        ],
+        [
+            [
+                "Jerusalem is the city ruled by Simba.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Fifo",
+            "Sell-By Date",
+            "DETERMINES_EXPIRATION"
+        ],
+        [
+            "id_3245242"
+        ],
+        [
+            [
+                "Fifo determines the sell-by date.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Oxycontin",
+            "Morphine",
+            "Metabolizes_into"
+        ],
+        [
+            "id_3545853"
+        ],
+        [
+            [
+                "Oxycontin metabolizes into morphine in the body.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Poll",
+            "Pitch",
+            "GATHERS_FOR"
+        ],
+        [
+            "id_4764714"
+        ],
+        [
+            [
+                "Poll gathers data for pitch preparation.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Detergent",
+            "Baccala",
+            "Cleansing agent"
+        ],
+        [
+            "id_8673154"
+        ],
+        [
+            [
+                "Detergent acts as a cleansing agent for Baccala.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "24 Percent",
+            "Health Insurance Marketplace",
+            "ENROLLMENT_RATE_OF"
+        ],
+        [
+            "id_3480194"
+        ],
+        [
+            [
+                "The Health Insurance Marketplace has an enrollment rate of 24 percent.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Defendant",
+            "Equitable Lien",
+            "Asserts_interest"
+        ],
+        [
+            "id_7223815"
+        ],
+        [
+            [
+                "The Defendant asserts an interest in the Equitable Lien.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Interrogative Sentence",
+            "Feelings",
+            "TRIGGERS_EMOTIONS"
+        ],
+        [
+            "id_1080386"
+        ],
+        [
+            [
+                "An interrogative sentence can trigger a range of feelings in individuals.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Reaction",
+            "Active Site",
+            "TRIGGERS_AT_ACTIVATION"
+        ],
+        [
+            "id_591578"
+        ],
+        [
+            [
+                "The activation triggers at the active site of the reaction.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Androgenetic Hair Loss",
+            "Gifts",
+            "TRIGGERS"
+        ],
+        [
+            "id_4181449"
+        ],
+        [
+            [
+                "Androgenetic Hair Loss triggers the need for thoughtful gifts.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Cohort",
+            "Ladders",
+            "ADVANCE"
+        ],
+        [
+            "id_6753750"
+        ],
+        [
+            [
+                "Cohorts advance through ladders to reach higher levels of achievement.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Retina",
+            "Center Of The Storm",
+            "FOCAL POINT"
+        ],
+        [
+            "id_4074575"
+        ],
+        [
+            [
+                "The retina serves as the focal point within the center of the storm.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Jsc'S Mission Control",
+            "International Space Station",
+            "MANAGES"
+        ],
+        [
+            "id_2578058"
+        ],
+        [
+            [
+                "Jsc'S Mission Control oversees the operations of the International Space Station.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Administrator",
+            "Ea Customer Experience Staff",
+            "MANAGES"
+        ],
+        [
+            "id_212467"
+        ],
+        [
+            [
+                "The Administrator oversees the Ea Customer Experience Staff.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Veterinary Physician",
+            "Pharmacist",
+            "CONSULTS_WITH"
+        ],
+        [
+            "id_4166072"
+        ],
+        [
+            [
+                "The Veterinary Physician consults with the Pharmacist on medication interactions and dosages.",
+                1,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Lovers",
+            "Chocolates",
+            "INDULGE_WITH"
+        ],
+        [
+            "id_6222366"
+        ],
+        [
+            [
+                "Lovers find joy in indulging with chocolates.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Table Es3",
+            "Median Recorded Selling Price",
+            "REFLECTS_PRICE_TRENDS"
+        ],
+        [
+            "id_2051582"
+        ],
+        [
+            [
+                "The median recorded selling price is reflected in Table Es3 for price trends analysis.",
+                0,
+                0
+            ]
+        ]
+    ],
+    [
+        [
+            "Xenopus Laevis",
+            "Olfactory Epithelium (Oe)",
+            "INHABITS"
+        ],
+        [
+            "id_289809"
+        ],
+        [
+            [
+                "Xenopus Laevis is found in the Olfactory Epithelium (Oe).",
+                0,
+                0
+            ]
+        ]
+    ]
+]

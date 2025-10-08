@@ -1,0 +1,23 @@
+{
+  "model_info": { 
+    "provider":"Mistral",
+    "name": "mistralai/Mistral-7B-Instruct-v0.3"  
+},
+  "api_key_info": { 
+    "api_keys": ["YOUR_KEY_HERE"], 
+    "api_key_use": 0 
+},
+"params":{
+        "temperature":0.1,
+        "seed":100,
+        "gpus":[0],
+        "max_output_tokens":150,
+        "repetition_penalty":1.0,
+        "device":"cuda",
+        "max_gpu_memory":"9GiB",
+        "revision":"main",
+        "load_8bit":"False",
+        "debug":"False",
+        "cpu_offloading":"False"
+}
+}

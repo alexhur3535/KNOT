@@ -1,0 +1,22 @@
+{
+    "model_info":{
+        "provider":"gpt-5",
+        "name":"gpt-5"
+    },
+    "api_key_info":{
+        "api_keys":[
+            ""
+            
+        ],
+        "api_key_use": 0,
+        "api_base" : [
+            "https://api.openai.com/v1"
+        ] 
+    },
+    "params":{
+        "temperature":1,
+        "seed":100,
+        "gpus":[],
+        "max_completion_tokens":400
+    }
+}

@@ -64,7 +64,7 @@ python src/main.py --eval_dataset 'nfcorpus' --eval_model_code "contriever" --sc
 # 9. Results.
 The verification results is as follows.
 ![images](./figs/wsn_results.png)
-- KNOT (our method) achieves reliable and high WSN values across five datasets and six LLMs. WSN higher than 3 is needed to claim ownership.
+- KNOT (our method) achieves reliable and high WSN values across five datasets and six LLMs. WSN higher than 2 is needed to claim ownership.
 
 ## 9.1. Text quality.
 Our method achieves higher text quality, leading to successful watermarking in RAG systems.
